@@ -10,12 +10,12 @@ using System.Windows.Forms;
 
 namespace FloppyBird
 {
-    public partial class FloppyBird : Form
+    public partial class HaunterPokemon : Form
     {
         int pipavelocidad = 9;
         int gravedad = 10;
         int score = 0;
-        public FloppyBird()
+        public HaunterPokemon()
         {
             InitializeComponent();
         }

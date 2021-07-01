@@ -21,7 +21,7 @@ namespace FloppyBird
 
         private void StartIcon_Click(object sender, EventArgs e)
         {
-            FloppyBird gamewindow = new FloppyBird();
+            HaunterPokemon gamewindow = new HaunterPokemon();
 
             gamewindow.Show();
 

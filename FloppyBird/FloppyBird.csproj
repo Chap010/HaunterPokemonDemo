@@ -74,11 +74,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FloppyBird.cs">
+    <Compile Include="HaunterPokemon.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FloppyBird.Designer.cs">
-      <DependentUpon>FloppyBird.cs</DependentUpon>
+    <Compile Include="HaunterPokemon.Designer.cs">
+      <DependentUpon>HaunterPokemon.cs</DependentUpon>
     </Compile>
     <Compile Include="MainMenu.cs">
       <SubType>Form</SubType>
@@ -88,8 +88,8 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="FloppyBird.resx">
-      <DependentUpon>FloppyBird.cs</DependentUpon>
+    <EmbeddedResource Include="HaunterPokemon.resx">
+      <DependentUpon>HaunterPokemon.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MainMenu.resx">
       <DependentUpon>MainMenu.cs</DependentUpon>
@@ -104,7 +104,7 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <None Include="FloppyBird_TemporaryKey.pfx" />
+    <None Include="HaunterPok_TemporaryKey.pfx" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

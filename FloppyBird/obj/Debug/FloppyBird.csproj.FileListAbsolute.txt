@@ -7,9 +7,9 @@ C:\Users\BlackPC\source\repos\FloppyBird\FloppyBird\obj\Debug\FloppyBird.csproj.
 C:\Users\BlackPC\source\repos\FloppyBird\FloppyBird\obj\Debug\FloppyBird.csproj.CoreCompileInputs.cache
 C:\Users\BlackPC\source\repos\FloppyBird\FloppyBird\obj\Debug\FloppyBird.exe
 C:\Users\BlackPC\source\repos\FloppyBird\FloppyBird\obj\Debug\FloppyBird.pdb
-C:\Users\BlackPC\source\repos\FloppyBird\FloppyBird\obj\Debug\FloppyBird.FloppyBird.resources
 C:\Users\BlackPC\source\repos\FloppyBird\FloppyBird\obj\Debug\FloppyBird.MainMenu.resources
 C:\Users\BlackPC\source\repos\FloppyBird\FloppyBird\bin\Debug\FloppyBird.exe.manifest
 C:\Users\BlackPC\source\repos\FloppyBird\FloppyBird\bin\Debug\FloppyBird.application
 C:\Users\BlackPC\source\repos\FloppyBird\FloppyBird\obj\Debug\FloppyBird.exe.manifest
 C:\Users\BlackPC\source\repos\FloppyBird\FloppyBird\obj\Debug\FloppyBird.application
+C:\Users\BlackPC\source\repos\FloppyBird\FloppyBird\obj\Debug\FloppyBird.HaunterPokemon.resources

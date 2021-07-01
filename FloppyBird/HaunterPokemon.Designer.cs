@@ -1,7 +1,7 @@
 ﻿
 namespace FloppyBird
 {
-    partial class FloppyBird
+    partial class HaunterPokemon
     {
         /// <summary>
         /// Required designer variable.
@@ -30,7 +30,7 @@ namespace FloppyBird
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FloppyBird));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(HaunterPokemon));
             this.ScoreIcon = new System.Windows.Forms.Label();
             this.GameTime = new System.Windows.Forms.Timer(this.components);
             this.OverGameICon = new System.Windows.Forms.Label();
